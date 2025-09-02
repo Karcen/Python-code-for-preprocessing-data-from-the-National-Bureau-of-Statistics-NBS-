@@ -1,0 +1,35 @@
+# 考虑到英文版国家统计局网站非常卡顿，建议使用中文版网站，可以自行对里面的省份名称进行替换。
+Considering that the English version of the National Bureau of Statistics (NBS) website is very slow, it is recommended to use the Chinese version of the website instead. Province names within the data can be replaced manually as needed.
+
+Region
+Beijing
+Tianjin
+Hebei
+Shanxi
+Inner Mongolia
+Liaoning
+Jilin
+Heilongjiang
+Shanghai
+Jiangsu
+Zhejiang
+Anhui
+Fujian
+Jiangxi
+Shandong
+Henan
+Hubei
+Hunan
+Guangdong
+Guangxi
+Hainan
+Chongqing
+Sichuan
+Guizhou
+Yunnan
+Tibet
+Shaanxi
+Gansu
+Qinghai
+Ningxia
+Xinjiang
